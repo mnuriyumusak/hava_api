@@ -2,7 +2,7 @@ import json
 import urllib2
 import csv
 
-API_KEY = "***"
+API_KEY = "***ddd"
 BASE_URL_WHEATHER = "http://my.meteoblue.com/packages/basic-day_current?name=&"
 BASE_URL_GOOGLE = "http://maps.google.com/maps/api/geocode/json?address="
 TAKEN_LIST = ["time","pictocode","uvindex","temperature_max","temperature_min","felttemperature_max","felttemperature_min",
